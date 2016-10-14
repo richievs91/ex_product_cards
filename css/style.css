@@ -1,0 +1,86 @@
+article {
+	width: 30%;
+	border: 1px solid lightblue;
+	min-width: 200px;
+	max-width: 400px;
+	background: white;
+	float: left;
+	margin: 25px 25px 0 0;
+	text-align: center;
+}
+
+img {
+	width: 200px;
+	height: 200px;
+	text-align: center;
+}
+
+h2 {
+	border: 1px dotted lightgray;
+}
+
+#justified {
+	text-align: justify;
+}
+
+p.avail {
+	color: yellow;
+	background-color: grey;
+	text-align: left;
+}
+
+h4 {
+	text-align: left;
+	font-size: 1em;
+}
+
+#size {
+	text-align: left;
+	font-size: .8em;
+	text-indent: 1em;
+	font-weight: bold;
+	line-height: .1em;
+}
+
+p.price {
+	text-align: left;
+	font-size: .8em;
+	text-indent: 1em;
+	font-weight: bold;
+	line-height: .1em;
+}
+
+
+footer {
+	font-size: .2em;
+	text-align: left;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
